@@ -14,13 +14,13 @@ a.navbar-brand::first-letter{
     color: #1ce6d2;
 }
 
-a.nav-link{
+.UserNavbar a.nav-link{
 	font-family: 'Open Sans Condensed' !important;
 	font-size: 1.3rem;
 	color: (125,125,125,0.6) !important;
 }
 
-a.nav-link:hover{
+.UserNavbar a.nav-link:hover{
 	color: white !important;
 }
 
@@ -29,5 +29,5 @@ a.nav-link:hover{
 }
 
 .ml-auto svg {
-  color: #1ce6d2 !important;
+	color: #1ce6d2 !important;
 }
